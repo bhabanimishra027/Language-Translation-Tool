@@ -26,3 +26,11 @@ A simple **Language Translation Tool** built with Python that allows users to:
 - Tkinter
 - googletrans
 - pyttsx3
+
+## 🚀 How to Run
+
+1️⃣ Clone the repo / Download the code  
+2️⃣ Install dependencies:
+
+```bash
+pip install -r requirements.txt
